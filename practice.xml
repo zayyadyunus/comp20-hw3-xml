@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="aesthetic.css"?>
+<songs>
+    <heading>The "Best" of Maroon 5</heading>
+    <song>
+        <title>Maps</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Pop rock, Electro, Electropop</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>Animals</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Pop rock, Electro, Electropop</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>It Was Always You</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Pop rock, Electro, Electropop</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>Unkiss Me</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Pop rock, Electro, Electropop</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>Sugar</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Pop rock, Electro, Electropop</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <title>Best 4 U</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Contemporary RnB, Soft rock, Funk</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <title>What Lovers Do</title>
+        <artists>Maroon 5, SZA</artists>
+        <genre>Pop music, Contemporary RnB, Soft rock, Funk</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <title>Wait</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Contemporary RnB, Soft rock, Funk</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <title>Lips On You</title>
+        <artists>Maroon 5</artists>
+        <genre>Pop music, Contemporary RnB, Soft rock, Funk</genre>
+        <year>2017</year>
+    </song>
+    <song>
+        <title>Help Me Out</title>
+        <artists>Maroon 5, Julia Micheals</artists>
+        <genre>Pop music, Contemporary RnB, Soft rock, Funk</genre>
+        <year>2017</year>
+    </song> 
+</songs>
